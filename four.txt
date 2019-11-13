@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is fouth file.
 #modified
 
+=======
+this is new fourth file.
+>>>>>>> branch2
